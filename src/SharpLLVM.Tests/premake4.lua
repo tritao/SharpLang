@@ -18,5 +18,5 @@ project "SharpLLVM.Tests"
     "System",
     "System.Core",
     "SharpLLVM",
-    "nunit.framework"
+    "NUnit.Framework"
   }

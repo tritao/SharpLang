@@ -26,5 +26,5 @@ project "SharpLang.Compiler.Tests"
     "SharpLang.Compiler",
     "SharpLLVM",
     "Microsoft.CSharp",
-    "nunit.framework"
+    "NUnit.Framework"
   }
